@@ -279,11 +279,11 @@ html, body {
 	text-transform: uppercase;
 	letter-spacing: 1.5px;
 	line-height: 0;
-	font-size: 48px;
+	font-size: 24px;
 }
 
 .hero .cta {
-	margin-top: 40px;
+	margin-top: 120px;
 }
 
 .hero .cta .btn {
