@@ -3966,7 +3966,7 @@ tbody.collapse.show {
   padding: 0.25em 0.4em;
   font-size: 75%;
   font-weight: bold;
-  line-height: 1;
+  line-height:5;
   color: #fff;
   text-align: center;
   white-space: nowrap;
